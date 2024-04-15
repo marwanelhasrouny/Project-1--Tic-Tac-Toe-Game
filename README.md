@@ -1,4 +1,4 @@
-# Project Title: Tic Tac Toe Game
+# Project 1: Tic Tac Toe Game
 
 ## Description
 
